@@ -9,4 +9,10 @@ The pump runs for 2 seconds and wits 30 seconds to read the moisture again.
 
 The nano sends the measurements to the RasPi and the RasPi sends the data to ThingSpeaks API so we can display th readings. See: https://thingspeak.com/channels/828568
 
+Calibrating the water level monitor: https://www.hackster.io/NewMC/water-level-monitor-b42be9
+
+Set USB interface: "sudo dmesg | grep tty"
+
+
+
 
