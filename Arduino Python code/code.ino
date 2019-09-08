@@ -51,7 +51,7 @@ void loop()
 
   
   
-  delay(30000);//take a reading every 30 second
+  delay(180000);//take a reading every 30 second
 }
 //This is a function used to get the soil moisture content
 
