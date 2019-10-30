@@ -17,7 +17,7 @@ void setup()
 {
   Serial.begin(9600);
   pinMode(pump, OUTPUT);
-  digitalWrite(pump, LOW);
+  digitalWrite(pump, HIGH);
   dht.begin();
 
 }
